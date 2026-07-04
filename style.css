@@ -1,1 +1,14 @@
-body{margin:0;font-family:Arial,sans-serif;background:#eef4f0;color:#17322b}.hero{background:linear-gradient(135deg,#173d33,#2f6f5b);color:#fff;padding:80px 20px}.wrap{max-width:960px;margin:auto}.brand{letter-spacing:.2em}.buttons{display:flex;gap:14px;flex-wrap:wrap;margin:28px 0}.btn{padding:14px 22px;border-radius:12px;background:#fff;color:#173d33;text-decoration:none;font-weight:bold}.primary{background:#2f80ed;color:#fff}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}.card{background:#fff;padding:18px;border-radius:14px;box-shadow:0 8px 20px rgba(0,0,0,.08)}section{padding:50px 20px}footer{text-align:center;padding:30px;color:#666}
+body{margin:0;font-family:Arial,sans-serif;background:#eef4f3;color:#1b2b27}
+.hero{background:linear-gradient(135deg,#214d43,#3b7b67);padding:70px 20px;color:#fff}
+.wrap{max-width:950px;margin:auto}
+h1{font-size:3rem;margin-bottom:.2rem}
+.sub{font-size:1.2rem;opacity:.95}
+.lead{max-width:700px}
+.contact-card{background:#ffffff;color:#1b2b27;border-radius:18px;padding:24px;margin-top:30px;box-shadow:0 12px 28px rgba(0,0,0,.15)}
+.buttons{display:flex;gap:14px;flex-wrap:wrap;margin:18px 0}
+.btn{padding:14px 22px;border-radius:12px;text-decoration:none;font-weight:bold;background:#1b2b27;color:#fff}
+.primary{background:#2f80ed}
+.phone{font-size:1.2rem;font-weight:bold}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;margin:30px 0}
+.card{background:#fff;padding:18px;border-radius:14px;box-shadow:0 8px 20px rgba(0,0,0,.08)}
+footer{text-align:center;padding:30px;color:#666}
